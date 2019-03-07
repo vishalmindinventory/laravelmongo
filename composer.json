@@ -2,7 +2,7 @@
     "name": "laravel/mongodb",
     "description": "A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)",
     "keywords": ["laravel","eloquent","mongodb","mongo","database","model","moloquent"],
-    "homepage": "https://github.com/vishalmindinventory/laravelmongo.git",
+    "homepage": "https://github.com/vishalmindinventory/laravelmongo",
     "authors": [
         {
             "name": "MI",
